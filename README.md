@@ -1,6 +1,6 @@
 # UK Government education statistics 2023
 
-This repository contains the UK government Education statistics for reporting year 2023 provided for easy online access for analysis.
+This repository contains the UK government Education statistics for reporting year 2023 downlaoded and unpacked for easy online access for analysis.
 
 ## Source
 
