@@ -27,7 +27,7 @@ All in CSV format
 
 ### Description
 
-This document describes the contents of the underlying data files accompanying the ‘education and training’ statistics publication. There is a Methodology document that is linked under ‘Useful information’ at the top of the release, that contains further information on the statistics published here.
+This document describes the contents of the underlying data files accompanying the ‘education and training’ statistics publication. There is a [Methodology document](https://explore-education-statistics.service.gov.uk/methodology/education-and-training-statistics-for-the-uk-methodology) that is linked under ‘Useful information’ at the top of the release, that contains further information on the statistics published here.
 
 ### Coverage
 
