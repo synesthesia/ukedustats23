@@ -6,6 +6,10 @@ This repository contains the UK government Education statistics for reporting ye
 
 [Education and training statistics for the UK 2023](https://explore-education-statistics.service.gov.uk/find-statistics/education-and-training-statistics-for-the-uk/2023)
 
+## Licence
+
+This data is released by the UK Government under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+
 ## Files
 
 All in CSV format
