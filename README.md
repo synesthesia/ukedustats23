@@ -10,16 +10,18 @@ This repository contains the UK government Education statistics for reporting ye
 
 All in CSV format
 
-- [Schools](./data/uk_schools.csv)
-- [Pupils](./data/uk_pupils.csv)
-- [Teachers](./data/uk_teachers.csv)
-- [Pupil/Teacher Ratios](./data/uk_pupil_teacher_ratios.csv)
-- [Further Education Students](./data/uk_post_compulsory_education_fe_students.csv)
-- [Higher Education Students](./data/uk_post_compulsory_education_he_students.csv)
-- [FE and HE Providers](./data/uk_post_compulsory_education_institutions.csv)
-- [UK NEET data (Not in Education, Employment or Training)](./data/uk_neet.csv)
-- [Highest qualification among 19-64 year olds](./data//uk_highest_qualifications.csv)
-- [Education expenditure UK](./data/uk_expenditure.csv)
+|File viewer|Raw CSV|
+|----|----|
+|[Schools](./data/uk_schools.csv)|[CSV](https://raw.githubusercontent.com/synesthesia/ukedustats23/master/data/uk_schools.csv)|
+|[Pupils](./data/uk_pupils.csv)|[CSV](https://raw.githubusercontent.com/synesthesia/ukedustats23/master/data/uk_pupils.csv)|
+|[Teachers](./data/uk_teachers.csv)|[CSV](https://raw.githubusercontent.com/synesthesia/ukedustats23/master/data/uk_teachers.csv)|
+|[Pupil/Teacher Ratios](./data/uk_pupil_teacher_ratios.csv)|[CSV](https://raw.githubusercontent.com/synesthesia/ukedustats23/master/data/uk_pupil_teacher_ratios.csv)|
+|[Further Education Students](./data/uk_post_compulsory_education_fe_students.csv)|[CSV](https://raw.githubusercontent.com/synesthesia/ukedustats23/master/data/uk_post_compulsory_education_fe_students.csv)|
+|[Higher Education Students](./data/uk_post_compulsory_education_he_students.csv)|[CSV](https://raw.githubusercontent.com/synesthesia/ukedustats23/master/data/uk_post_compulsory_education_he_students.csv)|
+|[FE and HE Providers](./data/uk_post_compulsory_education_institutions.csv)|[CSV](https://raw.githubusercontent.com/synesthesia/ukedustats23/master/data/uk_post_compulsory_education_institutions.csv)|
+|[UK NEET data (Not in Education, Employment or Training)](./data/uk_neet.csv)|[CSV](https://raw.githubusercontent.com/synesthesia/ukedustats23/master/data/uk_neet.csv)|
+|[Highest qualification among 19-64 year olds](./data//uk_highest_qualifications.csv)|[CSV](https://raw.githubusercontent.com/synesthesia/ukedustats23/master/data/uk_highest_qualifications.csv)|
+|[Education expenditure UK](./data/uk_expenditure.csv)|[CSV](https://raw.githubusercontent.com/synesthesia/ukedustats23/master/data/uk_expenditure.csv)
 
 ## Data guidance
 
