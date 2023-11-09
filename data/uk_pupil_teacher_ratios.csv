@@ -1,0 +1,593 @@
+time_period,time_identifier,geographic_level,country_code,country_name,region_code,region_name,phase,pupil_teacher_ratio
+201516,Academic year,National,E92000001,England,,,Nursery,18.7
+201516,Academic year,National,E92000001,England,,,Primary,20.4
+201516,Academic year,National,E92000001,England,,,Secondary,15.1
+201516,Academic year,National,E92000001,England,,,Special,6
+201516,Academic year,National,E92000001,England,,,Total maintained,17.3
+201516,Academic year,Regional,E92000001,England,E12000001,North East,Nursery,22
+201516,Academic year,Regional,E92000001,England,E12000001,North East,Primary,19.7
+201516,Academic year,Regional,E92000001,England,E12000001,North East,Secondary,14.9
+201516,Academic year,Regional,E92000001,England,E12000001,North East,Special,7
+201516,Academic year,Regional,E92000001,England,E12000001,North East,Total maintained,16.8
+201516,Academic year,Regional,E92000001,England,E12000002,North West,Nursery,17.3
+201516,Academic year,Regional,E92000001,England,E12000002,North West,Primary,20.7
+201516,Academic year,Regional,E92000001,England,E12000002,North West,Secondary,14.7
+201516,Academic year,Regional,E92000001,England,E12000002,North West,Special,6.2
+201516,Academic year,Regional,E92000001,England,E12000002,North West,Total maintained,17.2
+201516,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Nursery,18.3
+201516,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Primary,21.4
+201516,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,15.5
+201516,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Special,6.6
+201516,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total maintained,18.1
+201516,Academic year,Regional,E92000001,England,E12000004,East Midlands,Nursery,20.7
+201516,Academic year,Regional,E92000001,England,E12000004,East Midlands,Primary,21.2
+201516,Academic year,Regional,E92000001,England,E12000004,East Midlands,Secondary,15.6
+201516,Academic year,Regional,E92000001,England,E12000004,East Midlands,Special,6.4
+201516,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total maintained,18
+201516,Academic year,Regional,E92000001,England,E12000005,West Midlands,Nursery,21.7
+201516,Academic year,Regional,E92000001,England,E12000005,West Midlands,Primary,20.8
+201516,Academic year,Regional,E92000001,England,E12000005,West Midlands,Secondary,15.1
+201516,Academic year,Regional,E92000001,England,E12000005,West Midlands,Special,6.5
+201516,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total maintained,17.4
+201516,Academic year,Regional,E92000001,England,E12000006,East of England,Nursery,20.4
+201516,Academic year,Regional,E92000001,England,E12000006,East of England,Primary,20.5
+201516,Academic year,Regional,E92000001,England,E12000006,East of England,Secondary,15.5
+201516,Academic year,Regional,E92000001,England,E12000006,East of England,Special,5.8
+201516,Academic year,Regional,E92000001,England,E12000006,East of England,Total maintained,17.4
+201516,Academic year,Regional,E92000001,England,E12000008,South East,Nursery,16.8
+201516,Academic year,Regional,E92000001,England,E12000008,South East,Primary,20.5
+201516,Academic year,Regional,E92000001,England,E12000008,South East,Secondary,15.6
+201516,Academic year,Regional,E92000001,England,E12000008,South East,Special,5.8
+201516,Academic year,Regional,E92000001,England,E12000008,South East,Total maintained,17.5
+201516,Academic year,Regional,E92000001,England,E12000009,South West,Nursery,13.6
+201516,Academic year,Regional,E92000001,England,E12000009,South West,Primary,20
+201516,Academic year,Regional,E92000001,England,E12000009,South West,Secondary,15.5
+201516,Academic year,Regional,E92000001,England,E12000009,South West,Special,5.5
+201516,Academic year,Regional,E92000001,England,E12000009,South West,Total maintained,17.2
+201516,Academic year,Regional,E92000001,England,E13000001,Inner London,Nursery,17.6
+201516,Academic year,Regional,E92000001,England,E13000001,Inner London,Primary,18.1
+201516,Academic year,Regional,E92000001,England,E13000001,Inner London,Secondary,13
+201516,Academic year,Regional,E92000001,England,E13000001,Inner London,Special,4.8
+201516,Academic year,Regional,E92000001,England,E13000001,Inner London,Total maintained,15.1
+201516,Academic year,Regional,E92000001,England,E13000002,Outer London,Nursery,20.2
+201516,Academic year,Regional,E92000001,England,E13000002,Outer London,Primary,20.3
+201516,Academic year,Regional,E92000001,England,E13000002,Outer London,Secondary,14.8
+201516,Academic year,Regional,E92000001,England,E13000002,Outer London,Special,5.4
+201516,Academic year,Regional,E92000001,England,E13000002,Outer London,Total maintained,17
+201617,Academic year,National,E92000001,England,,,Nursery,19.7
+201617,Academic year,National,E92000001,England,,,Primary,20.5
+201617,Academic year,National,E92000001,England,,,Secondary,15.5
+201617,Academic year,National,E92000001,England,,,Special,6
+201617,Academic year,National,E92000001,England,,,Total maintained,17.5
+201617,Academic year,Regional,E92000001,England,E12000001,North East,Nursery,23.9
+201617,Academic year,Regional,E92000001,England,E12000001,North East,Primary,19.9
+201617,Academic year,Regional,E92000001,England,E12000001,North East,Secondary,15.2
+201617,Academic year,Regional,E92000001,England,E12000001,North East,Special,6.7
+201617,Academic year,Regional,E92000001,England,E12000001,North East,Total maintained,17
+201617,Academic year,Regional,E92000001,England,E12000002,North West,Nursery,18.7
+201617,Academic year,Regional,E92000001,England,E12000002,North West,Primary,20.8
+201617,Academic year,Regional,E92000001,England,E12000002,North West,Secondary,15.1
+201617,Academic year,Regional,E92000001,England,E12000002,North West,Special,6.4
+201617,Academic year,Regional,E92000001,England,E12000002,North West,Total maintained,17.5
+201617,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Nursery,19.9
+201617,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Primary,21.4
+201617,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,15.8
+201617,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Special,6.6
+201617,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total maintained,18.2
+201617,Academic year,Regional,E92000001,England,E12000004,East Midlands,Nursery,22.6
+201617,Academic year,Regional,E92000001,England,E12000004,East Midlands,Primary,21.5
+201617,Academic year,Regional,E92000001,England,E12000004,East Midlands,Secondary,15.9
+201617,Academic year,Regional,E92000001,England,E12000004,East Midlands,Special,6.6
+201617,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total maintained,18.3
+201617,Academic year,Regional,E92000001,England,E12000005,West Midlands,Nursery,22
+201617,Academic year,Regional,E92000001,England,E12000005,West Midlands,Primary,20.9
+201617,Academic year,Regional,E92000001,England,E12000005,West Midlands,Secondary,15.4
+201617,Academic year,Regional,E92000001,England,E12000005,West Midlands,Special,6.5
+201617,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total maintained,17.6
+201617,Academic year,Regional,E92000001,England,E12000006,East of England,Nursery,19.7
+201617,Academic year,Regional,E92000001,England,E12000006,East of England,Primary,20.7
+201617,Academic year,Regional,E92000001,England,E12000006,East of England,Secondary,15.8
+201617,Academic year,Regional,E92000001,England,E12000006,East of England,Special,5.9
+201617,Academic year,Regional,E92000001,England,E12000006,East of England,Total maintained,17.7
+201617,Academic year,Regional,E92000001,England,E12000008,South East,Nursery,18.6
+201617,Academic year,Regional,E92000001,England,E12000008,South East,Primary,20.7
+201617,Academic year,Regional,E92000001,England,E12000008,South East,Secondary,15.9
+201617,Academic year,Regional,E92000001,England,E12000008,South East,Special,5.8
+201617,Academic year,Regional,E92000001,England,E12000008,South East,Total maintained,17.7
+201617,Academic year,Regional,E92000001,England,E12000009,South West,Nursery,17.2
+201617,Academic year,Regional,E92000001,England,E12000009,South West,Primary,19.9
+201617,Academic year,Regional,E92000001,England,E12000009,South West,Secondary,15.9
+201617,Academic year,Regional,E92000001,England,E12000009,South West,Special,5.5
+201617,Academic year,Regional,E92000001,England,E12000009,South West,Total maintained,17.4
+201617,Academic year,Regional,E92000001,England,E13000001,Inner London,Nursery,17.3
+201617,Academic year,Regional,E92000001,England,E13000001,Inner London,Primary,18
+201617,Academic year,Regional,E92000001,England,E13000001,Inner London,Secondary,13.4
+201617,Academic year,Regional,E92000001,England,E13000001,Inner London,Special,4.8
+201617,Academic year,Regional,E92000001,England,E13000001,Inner London,Total maintained,15.3
+201617,Academic year,Regional,E92000001,England,E13000002,Outer London,Nursery,20.8
+201617,Academic year,Regional,E92000001,England,E13000002,Outer London,Primary,20.2
+201617,Academic year,Regional,E92000001,England,E13000002,Outer London,Secondary,15.3
+201617,Academic year,Regional,E92000001,England,E13000002,Outer London,Special,5.4
+201617,Academic year,Regional,E92000001,England,E13000002,Outer London,Total maintained,17.3
+201718,Academic year,National,E92000001,England,,,Nursery,21.9
+201718,Academic year,National,E92000001,England,,,Primary,20.9
+201718,Academic year,National,E92000001,England,,,Secondary,15.9
+201718,Academic year,National,E92000001,England,,,Special,6.2
+201718,Academic year,National,E92000001,England,,,Total maintained,17.9
+201718,Academic year,Regional,E92000001,England,E12000001,North East,Nursery,27.7
+201718,Academic year,Regional,E92000001,England,E12000001,North East,Primary,20.3
+201718,Academic year,Regional,E92000001,England,E12000001,North East,Secondary,15.7
+201718,Academic year,Regional,E92000001,England,E12000001,North East,Special,6.8
+201718,Academic year,Regional,E92000001,England,E12000001,North East,Total maintained,17.5
+201718,Academic year,Regional,E92000001,England,E12000002,North West,Nursery,21.7
+201718,Academic year,Regional,E92000001,England,E12000002,North West,Primary,21.2
+201718,Academic year,Regional,E92000001,England,E12000002,North West,Secondary,15.6
+201718,Academic year,Regional,E92000001,England,E12000002,North West,Special,6.5
+201718,Academic year,Regional,E92000001,England,E12000002,North West,Total maintained,17.9
+201718,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Nursery,23.4
+201718,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Primary,21.6
+201718,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,16.4
+201718,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Special,6.8
+201718,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total maintained,18.6
+201718,Academic year,Regional,E92000001,England,E12000004,East Midlands,Nursery,21.9
+201718,Academic year,Regional,E92000001,England,E12000004,East Midlands,Primary,21.5
+201718,Academic year,Regional,E92000001,England,E12000004,East Midlands,Secondary,16.3
+201718,Academic year,Regional,E92000001,England,E12000004,East Midlands,Special,6.6
+201718,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total maintained,18.5
+201718,Academic year,Regional,E92000001,England,E12000005,West Midlands,Nursery,23.7
+201718,Academic year,Regional,E92000001,England,E12000005,West Midlands,Primary,21.3
+201718,Academic year,Regional,E92000001,England,E12000005,West Midlands,Secondary,15.7
+201718,Academic year,Regional,E92000001,England,E12000005,West Midlands,Special,6.6
+201718,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total maintained,17.9
+201718,Academic year,Regional,E92000001,England,E12000006,East of England,Nursery,24
+201718,Academic year,Regional,E92000001,England,E12000006,East of England,Primary,20.9
+201718,Academic year,Regional,E92000001,England,E12000006,East of England,Secondary,16.2
+201718,Academic year,Regional,E92000001,England,E12000006,East of England,Special,6
+201718,Academic year,Regional,E92000001,England,E12000006,East of England,Total maintained,18
+201718,Academic year,Regional,E92000001,England,E12000008,South East,Nursery,21.3
+201718,Academic year,Regional,E92000001,England,E12000008,South East,Primary,21
+201718,Academic year,Regional,E92000001,England,E12000008,South East,Secondary,16.3
+201718,Academic year,Regional,E92000001,England,E12000008,South East,Special,5.9
+201718,Academic year,Regional,E92000001,England,E12000008,South East,Total maintained,18.1
+201718,Academic year,Regional,E92000001,England,E12000009,South West,Nursery,18.6
+201718,Academic year,Regional,E92000001,England,E12000009,South West,Primary,20.5
+201718,Academic year,Regional,E92000001,England,E12000009,South West,Secondary,16.5
+201718,Academic year,Regional,E92000001,England,E12000009,South West,Special,5.7
+201718,Academic year,Regional,E92000001,England,E12000009,South West,Total maintained,17.9
+201718,Academic year,Regional,E92000001,England,E13000001,Inner London,Nursery,18.4
+201718,Academic year,Regional,E92000001,England,E13000001,Inner London,Primary,18.4
+201718,Academic year,Regional,E92000001,England,E13000001,Inner London,Secondary,13.9
+201718,Academic year,Regional,E92000001,England,E13000001,Inner London,Special,5.1
+201718,Academic year,Regional,E92000001,England,E13000001,Inner London,Total maintained,15.7
+201718,Academic year,Regional,E92000001,England,E13000002,Outer London,Nursery,21.5
+201718,Academic year,Regional,E92000001,England,E13000002,Outer London,Primary,20.6
+201718,Academic year,Regional,E92000001,England,E13000002,Outer London,Secondary,15.7
+201718,Academic year,Regional,E92000001,England,E13000002,Outer London,Special,5.6
+201718,Academic year,Regional,E92000001,England,E13000002,Outer London,Total maintained,17.6
+201819,Academic year,National,E92000001,England,,,Nursery,22.8
+201819,Academic year,National,E92000001,England,,,Primary,20.9
+201819,Academic year,National,E92000001,England,,,Secondary,16.3
+201819,Academic year,National,E92000001,England,,,Special,6.2
+201819,Academic year,National,E92000001,England,,,Total maintained,18
+201819,Academic year,Regional,E92000001,England,E12000001,North East,Nursery,31.1
+201819,Academic year,Regional,E92000001,England,E12000001,North East,Primary,20.4
+201819,Academic year,Regional,E92000001,England,E12000001,North East,Secondary,16.2
+201819,Academic year,Regional,E92000001,England,E12000001,North East,Special,6.5
+201819,Academic year,Regional,E92000001,England,E12000001,North East,Total maintained,17.7
+201819,Academic year,Regional,E92000001,England,E12000002,North West,Nursery,22.4
+201819,Academic year,Regional,E92000001,England,E12000002,North West,Primary,21.2
+201819,Academic year,Regional,E92000001,England,E12000002,North West,Secondary,15.9
+201819,Academic year,Regional,E92000001,England,E12000002,North West,Special,6.7
+201819,Academic year,Regional,E92000001,England,E12000002,North West,Total maintained,18
+201819,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Nursery,23.2
+201819,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Primary,21.6
+201819,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,16.7
+201819,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Special,6.8
+201819,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total maintained,18.7
+201819,Academic year,Regional,E92000001,England,E12000004,East Midlands,Nursery,22.9
+201819,Academic year,Regional,E92000001,England,E12000004,East Midlands,Primary,21.3
+201819,Academic year,Regional,E92000001,England,E12000004,East Midlands,Secondary,16.8
+201819,Academic year,Regional,E92000001,England,E12000004,East Midlands,Special,6.6
+201819,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total maintained,18.6
+201819,Academic year,Regional,E92000001,England,E12000005,West Midlands,Nursery,25.9
+201819,Academic year,Regional,E92000001,England,E12000005,West Midlands,Primary,21.4
+201819,Academic year,Regional,E92000001,England,E12000005,West Midlands,Secondary,16.2
+201819,Academic year,Regional,E92000001,England,E12000005,West Midlands,Special,6.8
+201819,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total maintained,18.1
+201819,Academic year,Regional,E92000001,England,E12000006,East of England,Nursery,24.7
+201819,Academic year,Regional,E92000001,England,E12000006,East of England,Primary,20.9
+201819,Academic year,Regional,E92000001,England,E12000006,East of England,Secondary,16.6
+201819,Academic year,Regional,E92000001,England,E12000006,East of England,Special,6
+201819,Academic year,Regional,E92000001,England,E12000006,East of England,Total maintained,18.2
+201819,Academic year,Regional,E92000001,England,E12000008,South East,Nursery,20.4
+201819,Academic year,Regional,E92000001,England,E12000008,South East,Primary,21
+201819,Academic year,Regional,E92000001,England,E12000008,South East,Secondary,16.7
+201819,Academic year,Regional,E92000001,England,E12000008,South East,Special,6
+201819,Academic year,Regional,E92000001,England,E12000008,South East,Total maintained,18.2
+201819,Academic year,Regional,E92000001,England,E12000009,South West,Nursery,22.4
+201819,Academic year,Regional,E92000001,England,E12000009,South West,Primary,20.9
+201819,Academic year,Regional,E92000001,England,E12000009,South West,Secondary,16.8
+201819,Academic year,Regional,E92000001,England,E12000009,South West,Special,6
+201819,Academic year,Regional,E92000001,England,E12000009,South West,Total maintained,18.2
+201819,Academic year,Regional,E92000001,England,E13000001,Inner London,Nursery,19.3
+201819,Academic year,Regional,E92000001,England,E13000001,Inner London,Primary,18.3
+201819,Academic year,Regional,E92000001,England,E13000001,Inner London,Secondary,14.2
+201819,Academic year,Regional,E92000001,England,E13000001,Inner London,Special,4.9
+201819,Academic year,Regional,E92000001,England,E13000001,Inner London,Total maintained,15.7
+201819,Academic year,Regional,E92000001,England,E13000002,Outer London,Nursery,20.6
+201819,Academic year,Regional,E92000001,England,E13000002,Outer London,Primary,20.5
+201819,Academic year,Regional,E92000001,England,E13000002,Outer London,Secondary,16
+201819,Academic year,Regional,E92000001,England,E13000002,Outer London,Special,5.6
+201819,Academic year,Regional,E92000001,England,E13000002,Outer London,Total maintained,17.7
+201920,Academic year,National,E92000001,England,,,Nursery,23.5
+201920,Academic year,National,E92000001,England,,,Primary,20.9
+201920,Academic year,National,E92000001,England,,,Secondary,16.6
+201920,Academic year,National,E92000001,England,,,Special,6.3
+201920,Academic year,National,E92000001,England,,,Total maintained,18.2
+201920,Academic year,Regional,E92000001,England,E12000001,North East,Nursery,31.8
+201920,Academic year,Regional,E92000001,England,E12000001,North East,Primary,20.5
+201920,Academic year,Regional,E92000001,England,E12000001,North East,Secondary,16.5
+201920,Academic year,Regional,E92000001,England,E12000001,North East,Special,6.9
+201920,Academic year,Regional,E92000001,England,E12000001,North East,Total maintained,17.9
+201920,Academic year,Regional,E92000001,England,E12000002,North West,Nursery,23.5
+201920,Academic year,Regional,E92000001,England,E12000002,North West,Primary,21.3
+201920,Academic year,Regional,E92000001,England,E12000002,North West,Secondary,16.2
+201920,Academic year,Regional,E92000001,England,E12000002,North West,Special,6.8
+201920,Academic year,Regional,E92000001,England,E12000002,North West,Total maintained,18.2
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Nursery,23.4
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Primary,21.5
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,17
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Special,6.8
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total maintained,18.8
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,Nursery,22.4
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,Primary,21.4
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,Secondary,17.2
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,Special,6.6
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total maintained,18.8
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,Nursery,26.9
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,Primary,21.5
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,Secondary,16.4
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,Special,6.9
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total maintained,18.3
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,Nursery,24.7
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,Primary,21.1
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,Secondary,17.1
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,Special,6.1
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,Total maintained,18.5
+201920,Academic year,Regional,E92000001,England,E12000008,South East,Nursery,22
+201920,Academic year,Regional,E92000001,England,E12000008,South East,Primary,21
+201920,Academic year,Regional,E92000001,England,E12000008,South East,Secondary,17
+201920,Academic year,Regional,E92000001,England,E12000008,South East,Special,6.1
+201920,Academic year,Regional,E92000001,England,E12000008,South East,Total maintained,18.4
+201920,Academic year,Regional,E92000001,England,E12000009,South West,Nursery,24
+201920,Academic year,Regional,E92000001,England,E12000009,South West,Primary,21
+201920,Academic year,Regional,E92000001,England,E12000009,South West,Secondary,17
+201920,Academic year,Regional,E92000001,England,E12000009,South West,Special,6.1
+201920,Academic year,Regional,E92000001,England,E12000009,South West,Total maintained,18.4
+201920,Academic year,Regional,E92000001,England,E13000001,Inner London,Nursery,20.1
+201920,Academic year,Regional,E92000001,England,E13000001,Inner London,Primary,18.2
+201920,Academic year,Regional,E92000001,England,E13000001,Inner London,Secondary,14.6
+201920,Academic year,Regional,E92000001,England,E13000001,Inner London,Special,5.2
+201920,Academic year,Regional,E92000001,England,E13000001,Inner London,Total maintained,15.9
+201920,Academic year,Regional,E92000001,England,E13000002,Outer London,Nursery,21.2
+201920,Academic year,Regional,E92000001,England,E13000002,Outer London,Primary,20.6
+201920,Academic year,Regional,E92000001,England,E13000002,Outer London,Secondary,16.4
+201920,Academic year,Regional,E92000001,England,E13000002,Outer London,Special,5.7
+201920,Academic year,Regional,E92000001,England,E13000002,Outer London,Total maintained,17.9
+202021,Academic year,National,E92000001,England,,,Nursery,21.8
+202021,Academic year,National,E92000001,England,,,Primary,20.6
+202021,Academic year,National,E92000001,England,,,Secondary,16.6
+202021,Academic year,National,E92000001,England,,,Special,6.2
+202021,Academic year,National,E92000001,England,,,Total maintained,18
+202021,Academic year,Regional,E92000001,England,E12000001,North East,Nursery,28.1
+202021,Academic year,Regional,E92000001,England,E12000001,North East,Primary,20.2
+202021,Academic year,Regional,E92000001,England,E12000001,North East,Secondary,16.6
+202021,Academic year,Regional,E92000001,England,E12000001,North East,Special,6.6
+202021,Academic year,Regional,E92000001,England,E12000001,North East,Total maintained,17.7
+202021,Academic year,Regional,E92000001,England,E12000002,North West,Nursery,21.7
+202021,Academic year,Regional,E92000001,England,E12000002,North West,Primary,21.2
+202021,Academic year,Regional,E92000001,England,E12000002,North West,Secondary,16.2
+202021,Academic year,Regional,E92000001,England,E12000002,North West,Special,6.7
+202021,Academic year,Regional,E92000001,England,E12000002,North West,Total maintained,18.1
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Nursery,20.8
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Primary,21.1
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,17.1
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Special,6.7
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total maintained,18.6
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,Nursery,21.1
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,Primary,21.1
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,Secondary,17.2
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,Special,6.4
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total maintained,18.6
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,Nursery,24.8
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,Primary,21.1
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,Secondary,16.4
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,Special,6.8
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total maintained,18.1
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,Nursery,24
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,Primary,20.7
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,Secondary,17.1
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,Special,6.1
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,Total maintained,18.3
+202021,Academic year,Regional,E92000001,England,E12000008,South East,Nursery,20.1
+202021,Academic year,Regional,E92000001,England,E12000008,South East,Primary,20.6
+202021,Academic year,Regional,E92000001,England,E12000008,South East,Secondary,17
+202021,Academic year,Regional,E92000001,England,E12000008,South East,Special,6
+202021,Academic year,Regional,E92000001,England,E12000008,South East,Total maintained,18.1
+202021,Academic year,Regional,E92000001,England,E12000009,South West,Nursery,23.4
+202021,Academic year,Regional,E92000001,England,E12000009,South West,Primary,20.7
+202021,Academic year,Regional,E92000001,England,E12000009,South West,Secondary,17
+202021,Academic year,Regional,E92000001,England,E12000009,South West,Special,5.9
+202021,Academic year,Regional,E92000001,England,E12000009,South West,Total maintained,18.2
+202021,Academic year,Regional,E92000001,England,E13000001,Inner London,Nursery,18.9
+202021,Academic year,Regional,E92000001,England,E13000001,Inner London,Primary,17.8
+202021,Academic year,Regional,E92000001,England,E13000001,Inner London,Secondary,14.5
+202021,Academic year,Regional,E92000001,England,E13000001,Inner London,Special,5.1
+202021,Academic year,Regional,E92000001,England,E13000001,Inner London,Total maintained,15.6
+202021,Academic year,Regional,E92000001,England,E13000002,Outer London,Nursery,18.5
+202021,Academic year,Regional,E92000001,England,E13000002,Outer London,Primary,20.1
+202021,Academic year,Regional,E92000001,England,E13000002,Outer London,Secondary,16.4
+202021,Academic year,Regional,E92000001,England,E13000002,Outer London,Special,5.5
+202021,Academic year,Regional,E92000001,England,E13000002,Outer London,Total maintained,17.6
+202122,Academic year,National,E92000001,England,,,Nursery,23.4
+202122,Academic year,National,E92000001,England,,,Primary,20.6
+202122,Academic year,National,E92000001,England,,,Secondary,16.7
+202122,Academic year,National,E92000001,England,,,Special,6.3
+202122,Academic year,National,E92000001,England,,,Total maintained,18
+202122,Academic year,Regional,E92000001,England,E12000001,North East,Nursery,31.2
+202122,Academic year,Regional,E92000001,England,E12000001,North East,Primary,19.9
+202122,Academic year,Regional,E92000001,England,E12000001,North East,Secondary,16.8
+202122,Academic year,Regional,E92000001,England,E12000001,North East,Special,6.8
+202122,Academic year,Regional,E92000001,England,E12000001,North East,Total maintained,17.7
+202122,Academic year,Regional,E92000001,England,E12000002,North West,Nursery,24
+202122,Academic year,Regional,E92000001,England,E12000002,North West,Primary,21.1
+202122,Academic year,Regional,E92000001,England,E12000002,North West,Secondary,16.3
+202122,Academic year,Regional,E92000001,England,E12000002,North West,Special,6.8
+202122,Academic year,Regional,E92000001,England,E12000002,North West,Total maintained,18.1
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Nursery,22.2
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Primary,21.1
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,17
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Special,6.8
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total maintained,18.5
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,Nursery,21.2
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,Primary,20.8
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,Secondary,17.1
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,Special,6.7
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total maintained,18.4
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,Nursery,25.1
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,Primary,21.1
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,Secondary,16.4
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,Special,6.7
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total maintained,18.1
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,Nursery,26.2
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,Primary,20.7
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,Secondary,17.1
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,Special,6.2
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,Total maintained,18.3
+202122,Academic year,Regional,E92000001,England,E12000008,South East,Nursery,23
+202122,Academic year,Regional,E92000001,England,E12000008,South East,Primary,20.7
+202122,Academic year,Regional,E92000001,England,E12000008,South East,Secondary,16.8
+202122,Academic year,Regional,E92000001,England,E12000008,South East,Special,6.1
+202122,Academic year,Regional,E92000001,England,E12000008,South East,Total maintained,18
+202122,Academic year,Regional,E92000001,England,E12000009,South West,Nursery,24.7
+202122,Academic year,Regional,E92000001,England,E12000009,South West,Primary,20.6
+202122,Academic year,Regional,E92000001,England,E12000009,South West,Secondary,16.9
+202122,Academic year,Regional,E92000001,England,E12000009,South West,Special,5.9
+202122,Academic year,Regional,E92000001,England,E12000009,South West,Total maintained,18
+202122,Academic year,Regional,E92000001,England,E13000001,Inner London,Nursery,19.6
+202122,Academic year,Regional,E92000001,England,E13000001,Inner London,Primary,18
+202122,Academic year,Regional,E92000001,England,E13000001,Inner London,Secondary,14.9
+202122,Academic year,Regional,E92000001,England,E13000001,Inner London,Special,5.2
+202122,Academic year,Regional,E92000001,England,E13000001,Inner London,Total maintained,15.8
+202122,Academic year,Regional,E92000001,England,E13000002,Outer London,Nursery,20.9
+202122,Academic year,Regional,E92000001,England,E13000002,Outer London,Primary,20.5
+202122,Academic year,Regional,E92000001,England,E13000002,Outer London,Secondary,16.6
+202122,Academic year,Regional,E92000001,England,E13000002,Outer London,Special,5.7
+202122,Academic year,Regional,E92000001,England,E13000002,Outer London,Total maintained,17.8
+202223,Academic year,National,E92000001,England,,,Nursery,23.9
+202223,Academic year,National,E92000001,England,,,Primary,20.7
+202223,Academic year,National,E92000001,England,,,Secondary,16.8
+202223,Academic year,National,E92000001,England,,,Special,6.4
+202223,Academic year,National,E92000001,England,,,Total maintained,18
+202223,Academic year,Regional,E92000001,England,E12000001,North East,Nursery,32.4
+202223,Academic year,Regional,E92000001,England,E12000001,North East,Primary,19.9
+202223,Academic year,Regional,E92000001,England,E12000001,North East,Secondary,16.8
+202223,Academic year,Regional,E92000001,England,E12000001,North East,Special,6.9
+202223,Academic year,Regional,E92000001,England,E12000001,North East,Total maintained,17.6
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Nursery,24.1
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Primary,21
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Secondary,16.4
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Special,6.9
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Total maintained,18.1
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Nursery,23.1
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Primary,21.1
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Secondary,17.1
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Special,6.6
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total maintained,18.5
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,Nursery,23.8
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,Primary,20.9
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,Secondary,17.2
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,Special,6.7
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total maintained,18.4
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Nursery,26.5
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Primary,21.3
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Secondary,16.6
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Special,6.9
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total maintained,18.2
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Nursery,24.3
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Primary,20.8
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Secondary,17.2
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Special,6.3
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Total maintained,18.4
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Nursery,22.4
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Primary,20.7
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Secondary,17
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Special,6.2
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Total maintained,18.1
+202223,Academic year,Regional,E92000001,England,E12000009,South West,Nursery,23.6
+202223,Academic year,Regional,E92000001,England,E12000009,South West,Primary,20.4
+202223,Academic year,Regional,E92000001,England,E12000009,South West,Secondary,16.9
+202223,Academic year,Regional,E92000001,England,E12000009,South West,Special,6
+202223,Academic year,Regional,E92000001,England,E12000009,South West,Total maintained,17.9
+202223,Academic year,Regional,E92000001,England,E13000001,Inner London,Nursery,20.5
+202223,Academic year,Regional,E92000001,England,E13000001,Inner London,Primary,18.3
+202223,Academic year,Regional,E92000001,England,E13000001,Inner London,Secondary,14.9
+202223,Academic year,Regional,E92000001,England,E13000001,Inner London,Special,5.4
+202223,Academic year,Regional,E92000001,England,E13000001,Inner London,Total maintained,15.9
+202223,Academic year,Regional,E92000001,England,E13000002,Outer London,Nursery,23.1
+202223,Academic year,Regional,E92000001,England,E13000002,Outer London,Primary,20.8
+202223,Academic year,Regional,E92000001,England,E13000002,Outer London,Secondary,16.7
+202223,Academic year,Regional,E92000001,England,E13000002,Outer London,Special,5.8
+202223,Academic year,Regional,E92000001,England,E13000002,Outer London,Total maintained,18
+201516,Academic year,National,S92000003,Scotland,,,Primary,16.7
+201516,Academic year,National,S92000003,Scotland,,,Secondary,12.2
+201516,Academic year,National,S92000003,Scotland,,,Special,3.6
+201516,Academic year,National,S92000003,Scotland,,,Total maintained,13.7
+201617,Academic year,National,S92000003,Scotland,,,Primary,16.6
+201617,Academic year,National,S92000003,Scotland,,,Secondary,12.2
+201617,Academic year,National,S92000003,Scotland,,,Special,3.6
+201617,Academic year,National,S92000003,Scotland,,,Total maintained,13.7
+201718,Academic year,National,S92000003,Scotland,,,Primary,16.3548123910444
+201718,Academic year,National,S92000003,Scotland,,,Secondary,12.1810757539172
+201718,Academic year,National,S92000003,Scotland,,,Special,3.62418300653595
+201718,Academic year,National,S92000003,Scotland,,,Total maintained,13.6180189169295
+201819,Academic year,National,S92000003,Scotland,,,Primary,16.0762710775242
+201819,Academic year,National,S92000003,Scotland,,,Secondary,12.2724161415776
+201819,Academic year,National,S92000003,Scotland,,,Special,3.62278056239912
+201819,Academic year,National,S92000003,Scotland,,,Total maintained,13.5564719862975
+201920,Academic year,National,S92000003,Scotland,,,Primary,15.9343342121056
+201920,Academic year,National,S92000003,Scotland,,,Secondary,12.4163881375949
+201920,Academic year,National,S92000003,Scotland,,,Special,3.70057127439331
+201920,Academic year,National,S92000003,Scotland,,,Total maintained,13.5665850909432
+202021,Academic year,National,S92000003,Scotland,,,Primary,15.3582348421262
+202021,Academic year,National,S92000003,Scotland,,,Secondary,12.4995379448034
+202021,Academic year,National,S92000003,Scotland,,,Special,3.76658154033851
+202021,Academic year,National,S92000003,Scotland,,,Total maintained,13.331570212034
+202122,Academic year,National,S92000003,Scotland,,,Primary,15.1245945306049
+202122,Academic year,National,S92000003,Scotland,,,Secondary,12.3806168780335
+202122,Academic year,National,S92000003,Scotland,,,Special,3.79068665353054
+202122,Academic year,National,S92000003,Scotland,,,Total maintained,13.1524548768129
+202223,Academic year,National,S92000003,Scotland,,,Primary,15.2812125012671
+202223,Academic year,National,S92000003,Scotland,,,Secondary,12.4280768166936
+202223,Academic year,National,S92000003,Scotland,,,Special,3.72922249454039
+202223,Academic year,National,S92000003,Scotland,,,Total maintained,13.2039440075287
+201516,Academic year,National,W92000004,Wales,,,Middle,15.2947992334774
+201516,Academic year,National,W92000004,Wales,,,Nursery,14.0316709137241
+201516,Academic year,National,W92000004,Wales,,,Primary,21.5775186449248
+201516,Academic year,National,W92000004,Wales,,,Secondary,16.2663875644998
+201516,Academic year,National,W92000004,Wales,,,Special,6.52393310265283
+201516,Academic year,National,W92000004,Wales,,,Total maintained,18.6369868839846
+201617,Academic year,National,W92000004,Wales,,,Middle,16.8070758122744
+201617,Academic year,National,W92000004,Wales,,,Nursery,15.3687959558824
+201617,Academic year,National,W92000004,Wales,,,Primary,21.8033108010674
+201617,Academic year,National,W92000004,Wales,,,Secondary,16.5015415581719
+201617,Academic year,National,W92000004,Wales,,,Special,6.78559558628024
+201617,Academic year,National,W92000004,Wales,,,Total maintained,18.8978334627726
+201718,Academic year,National,W92000004,Wales,,,Middle,16.6587984220397
+201718,Academic year,National,W92000004,Wales,,,Nursery,12.558277360727
+201718,Academic year,National,W92000004,Wales,,,Primary,22.0123874410712
+201718,Academic year,National,W92000004,Wales,,,Secondary,16.4665430052088
+201718,Academic year,National,W92000004,Wales,,,Special,6.70165503361453
+201718,Academic year,National,W92000004,Wales,,,Total maintained,18.9461635434149
+201819,Academic year,National,W92000004,Wales,,,Middle,17.6684930862572
+201819,Academic year,National,W92000004,Wales,,,Nursery,13.123396613648
+201819,Academic year,National,W92000004,Wales,,,Primary,22.0255657432696
+201819,Academic year,National,W92000004,Wales,,,Secondary,17.0076048607184
+201819,Academic year,National,W92000004,Wales,,,Special,6.70540663995183
+201819,Academic year,National,W92000004,Wales,,,Total maintained,19.2225147140716
+201920,Academic year,National,W92000004,Wales,,,Middle,17.6578104014574
+201920,Academic year,National,W92000004,Wales,,,Nursery,12.699311023622
+201920,Academic year,National,W92000004,Wales,,,Primary,22.0340223054787
+201920,Academic year,National,W92000004,Wales,,,Secondary,17.1726206544425
+201920,Academic year,National,W92000004,Wales,,,Special,6.87956204379562
+201920,Academic year,National,W92000004,Wales,,,Total maintained,19.2729088666064
+202021,Academic year,National,W92000004,Wales,,,Middle,17.9661304725132
+202021,Academic year,National,W92000004,Wales,,,Nursery,13.5670280926565
+202021,Academic year,National,W92000004,Wales,,,Primary,21.8938122562114
+202021,Academic year,National,W92000004,Wales,,,Secondary,17.1770755714869
+202021,Academic year,National,W92000004,Wales,,,Special,6.85086086551885
+202021,Academic year,National,W92000004,Wales,,,Total maintained,19.2072860406312
+202122,Academic year,National,W92000004,Wales,,,Middle,17.4359059712152
+202122,Academic year,National,W92000004,Wales,,,Nursery,10.8739293361884
+202122,Academic year,National,W92000004,Wales,,,Primary,21.0028950151896
+202122,Academic year,National,W92000004,Wales,,,Secondary,16.7846157232797
+202122,Academic year,National,W92000004,Wales,,,Special,6.69589981517106
+202122,Academic year,National,W92000004,Wales,,,Total maintained,18.5404080929746
+202223,Academic year,National,W92000004,Wales,,,Middle,17.1560955939401
+202223,Academic year,National,W92000004,Wales,,,Nursery,10.4884519350811
+202223,Academic year,National,W92000004,Wales,,,Primary,20.9163406870222
+202223,Academic year,National,W92000004,Wales,,,Secondary,16.5827246332853
+202223,Academic year,National,W92000004,Wales,,,Special,6.6649782006983
+202223,Academic year,National,W92000004,Wales,,,Total maintained,18.353952920447
+201516,Academic year,National,N92000002,Northern Ireland,,,Nursery,25.6
+201516,Academic year,National,N92000002,Northern Ireland,,,Primary,21.4
+201516,Academic year,National,N92000002,Northern Ireland,,,Secondary,15.2
+201516,Academic year,National,N92000002,Northern Ireland,,,Special,6.4
+201516,Academic year,National,N92000002,Northern Ireland,,,Total maintained,17.6
+201617,Academic year,National,N92000002,Northern Ireland,,,Nursery,25.7
+201617,Academic year,National,N92000002,Northern Ireland,,,Primary,21.7
+201617,Academic year,National,N92000002,Northern Ireland,,,Secondary,15.3
+201617,Academic year,National,N92000002,Northern Ireland,,,Special,6.4
+201617,Academic year,National,N92000002,Northern Ireland,,,Total maintained,17.8
+201718,Academic year,National,N92000002,Northern Ireland,,,Nursery,25.5
+201718,Academic year,National,N92000002,Northern Ireland,,,Primary,21.9
+201718,Academic year,National,N92000002,Northern Ireland,,,Secondary,15.4
+201718,Academic year,National,N92000002,Northern Ireland,,,Special,6.4
+201718,Academic year,National,N92000002,Northern Ireland,,,Total maintained,18
+201819,Academic year,National,N92000002,Northern Ireland,,,Nursery,25.8
+201819,Academic year,National,N92000002,Northern Ireland,,,Primary,22.3
+201819,Academic year,National,N92000002,Northern Ireland,,,Secondary,15.7
+201819,Academic year,National,N92000002,Northern Ireland,,,Special,6.7
+201819,Academic year,National,N92000002,Northern Ireland,,,Total maintained,18.3
+201920,Academic year,National,N92000002,Northern Ireland,,,Nursery,25.5
+201920,Academic year,National,N92000002,Northern Ireland,,,Primary,22.4
+201920,Academic year,National,N92000002,Northern Ireland,,,Secondary,15.8
+201920,Academic year,National,N92000002,Northern Ireland,,,Special,6.7
+201920,Academic year,National,N92000002,Northern Ireland,,,Total maintained,18.3
+202021,Academic year,National,N92000002,Northern Ireland,,,Nursery,25.5
+202021,Academic year,National,N92000002,Northern Ireland,,,Primary,21.8
+202021,Academic year,National,N92000002,Northern Ireland,,,Secondary,15.8
+202021,Academic year,National,N92000002,Northern Ireland,,,Special,6.7
+202021,Academic year,National,N92000002,Northern Ireland,,,Total maintained,18
+202122,Academic year,National,N92000002,Northern Ireland,,,Nursery,25.5
+202122,Academic year,National,N92000002,Northern Ireland,,,Primary,21.4
+202122,Academic year,National,N92000002,Northern Ireland,,,Secondary,15.6
+202122,Academic year,National,N92000002,Northern Ireland,,,Special,6.5
+202122,Academic year,National,N92000002,Northern Ireland,,,Total maintained,17.7
+202223,Academic year,National,N92000002,Northern Ireland,,,Nursery,25.6
+202223,Academic year,National,N92000002,Northern Ireland,,,Primary,21
+202223,Academic year,National,N92000002,Northern Ireland,,,Secondary,15.4
+202223,Academic year,National,N92000002,Northern Ireland,,,Special,6.4
+202223,Academic year,National,N92000002,Northern Ireland,,,Total maintained,17.4
+202223,Academic year,National,S92000003,Scotland,,,Nursery,x
+202223,Academic year,National,S92000003,Scotland,,,Middle,z
+202223,Academic year,National,E92000001,England,,,Middle,z
+202223,Academic year,National,N92000002,Northern Ireland,,,Middle,z
+202122,Academic year,National,S92000003,Scotland,,,Nursery,x
+202122,Academic year,National,S92000003,Scotland,,,Middle,z
+202122,Academic year,National,E92000001,England,,,Middle,z
+202122,Academic year,National,N92000002,Northern Ireland,,,Middle,z
+202021,Academic year,National,S92000003,Scotland,,,Nursery,x
+202021,Academic year,National,S92000003,Scotland,,,Middle,z
+202021,Academic year,National,E92000001,England,,,Middle,z
+202021,Academic year,National,N92000002,Northern Ireland,,,Middle,z
+201920,Academic year,National,S92000003,Scotland,,,Nursery,x
+201920,Academic year,National,S92000003,Scotland,,,Middle,z
+201920,Academic year,National,E92000001,England,,,Middle,z
+201920,Academic year,National,N92000002,Northern Ireland,,,Middle,z
+201819,Academic year,National,S92000003,Scotland,,,Nursery,x
+201819,Academic year,National,S92000003,Scotland,,,Middle,z
+201819,Academic year,National,E92000001,England,,,Middle,z
+201819,Academic year,National,N92000002,Northern Ireland,,,Middle,z
+201718,Academic year,National,S92000003,Scotland,,,Nursery,x
+201718,Academic year,National,S92000003,Scotland,,,Middle,z
+201718,Academic year,National,E92000001,England,,,Middle,z
+201718,Academic year,National,N92000002,Northern Ireland,,,Middle,z
+201617,Academic year,National,S92000003,Scotland,,,Nursery,x
+201617,Academic year,National,S92000003,Scotland,,,Middle,z
+201617,Academic year,National,E92000001,England,,,Middle,z
+201617,Academic year,National,N92000002,Northern Ireland,,,Middle,z
+201516,Academic year,National,S92000003,Scotland,,,Nursery,x
+201516,Academic year,National,S92000003,Scotland,,,Middle,z
+201516,Academic year,National,E92000001,England,,,Middle,z
+201516,Academic year,National,N92000002,Northern Ireland,,,Middle,z

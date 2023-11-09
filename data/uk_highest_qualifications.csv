@@ -1,0 +1,85 @@
+time_period,time_identifier,geographic_level,country_code,country_name,gender,age,population_category,percent,number
+2022,Calendar year,National,K02000001,United Kingdom,Total,19-24,NQF Level 4 or above,32.917411488625305,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,25-29,NQF Level 4 or above,57.903102961738995,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,30-39,NQF Level 4 or above,55.97694737582448,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,40-49,NQF Level 4 or above,55.497512764538889,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,50-64,NQF Level 4 or above,41.054000623649692,z
+2022,Calendar year,National,K02000001,United Kingdom,Male,Total,NQF Level 4 or above,46.463385119077181,z
+2022,Calendar year,National,K02000001,United Kingdom,Female,Total,NQF Level 4 or above,50.36278709402324,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,Total,NQF Level 4 or above,48.4305601489135,z
+2022,Calendar year,National,E92000001,England,Total,Total,NQF Level 4 or above,48.688176230923347,z
+2022,Calendar year,National,W92000004,Wales,Total,Total,NQF Level 4 or above,41.648873132895048,z
+2022,Calendar year,National,N92000002,Northern Ireland,Total,Total,NQF Level 4 or above,39.325962076790248,z
+2022,Calendar year,National,S92000003,Scotland,Total,Total,NQF Level 4 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,19-24,NQF Level 3 or above,69.699174240938845,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,25-29,NQF Level 3 or above,76.804468627985543,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,30-39,NQF Level 3 or above,72.466224197270961,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,40-49,NQF Level 3 or above,70.470297199488044,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,50-64,NQF Level 3 or above,56.731111715281614,z
+2022,Calendar year,National,K02000001,United Kingdom,Male,Total,NQF Level 3 or above,66.183797241793755,z
+2022,Calendar year,National,K02000001,United Kingdom,Female,Total,NQF Level 3 or above,67.772141033150461,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,Total,NQF Level 3 or above,66.983283614271571,z
+2022,Calendar year,National,E92000001,England,Total,Total,NQF Level 3 or above,67.452889865892089,z
+2022,Calendar year,National,W92000004,Wales,Total,Total,NQF Level 3 or above,60.226401603697397,z
+2022,Calendar year,National,N92000002,Northern Ireland,Total,Total,NQF Level 3 or above,59.401884279044673,z
+2022,Calendar year,National,S92000003,Scotland,Total,Total,NQF Level 3 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,19-24,NQF Level 2 or above,88.025673676005994,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,25-29,NQF Level 2 or above,89.633776840556152,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,30-39,NQF Level 2 or above,86.243534949152092,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,40-49,NQF Level 2 or above,84.450854891337684,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,50-64,NQF Level 2 or above,76.226420983171224,z
+2022,Calendar year,National,K02000001,United Kingdom,Male,Total,NQF Level 2 or above,82.436689031523514,z
+2022,Calendar year,National,K02000001,United Kingdom,Female,Total,NQF Level 2 or above,83.780424019372106,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,Total,NQF Level 2 or above,83.118125861753668,z
+2022,Calendar year,National,E92000001,England,Total,Total,NQF Level 2 or above,83.487631542436716,z
+2022,Calendar year,National,W92000004,Wales,Total,Total,NQF Level 2 or above,79.061930415930874,z
+2022,Calendar year,National,N92000002,Northern Ireland,Total,Total,NQF Level 2 or above,77.105209647570447,z
+2022,Calendar year,National,S92000003,Scotland,Total,Total,NQF Level 2 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,19-24,SCQF Level 7 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,25-29,SCQF Level 7 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,30-39,SCQF Level 7 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,40-49,SCQF Level 7 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,50-64,SCQF Level 7 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Male,Total,SCQF Level 7 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Female,Total,SCQF Level 7 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,Total,SCQF Level 7 or above,z,z
+2022,Calendar year,National,E92000001,England,Total,Total,SCQF Level 7 or above,z,z
+2022,Calendar year,National,W92000004,Wales,Total,Total,SCQF Level 7 or above,z,z
+2022,Calendar year,National,N92000002,Northern Ireland,Total,Total,SCQF Level 7 or above,z,z
+2022,Calendar year,National,S92000003,Scotland,Total,Total,SCQF Level 7 or above,54,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,19-24,SCQF Level 6 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,25-29,SCQF Level 6 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,30-39,SCQF Level 6 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,40-49,SCQF Level 6 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,50-64,SCQF Level 6 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Male,Total,SCQF Level 6 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Female,Total,SCQF Level 6 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,Total,SCQF Level 6 or above,z,z
+2022,Calendar year,National,E92000001,England,Total,Total,SCQF Level 6 or above,z,z
+2022,Calendar year,National,W92000004,Wales,Total,Total,SCQF Level 6 or above,z,z
+2022,Calendar year,National,N92000002,Northern Ireland,Total,Total,SCQF Level 6 or above,z,z
+2022,Calendar year,National,S92000003,Scotland,Total,Total,SCQF Level 6 or above,72,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,19-24,SCQF Level 5 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,25-29,SCQF Level 5 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,30-39,SCQF Level 5 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,40-49,SCQF Level 5 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,50-64,SCQF Level 5 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Male,Total,SCQF Level 5 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Female,Total,SCQF Level 5 or above,z,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,Total,SCQF Level 5 or above,z,z
+2022,Calendar year,National,E92000001,England,Total,Total,SCQF Level 5 or above,z,z
+2022,Calendar year,National,W92000004,Wales,Total,Total,SCQF Level 5 or above,z,z
+2022,Calendar year,National,N92000002,Northern Ireland,Total,Total,SCQF Level 5 or above,z,z
+2022,Calendar year,National,S92000003,Scotland,Total,Total,SCQF Level 5 or above,83,z
+2022,Calendar year,National,K02000001,United Kingdom,Total,19-24,Total,z,4660.2190000000001
+2022,Calendar year,National,K02000001,United Kingdom,Total,25-29,Total,z,4388.2030000000004
+2022,Calendar year,National,K02000001,United Kingdom,Total,30-39,Total,z,8958.4639999999999
+2022,Calendar year,National,K02000001,United Kingdom,Total,40-49,Total,z,8308.8989999999994
+2022,Calendar year,National,K02000001,United Kingdom,Total,50-64,Total,z,13072.245999999999
+2022,Calendar year,National,K02000001,United Kingdom,Male,Total,Total,z,19580.918000000001
+2022,Calendar year,National,K02000001,United Kingdom,Female,Total,Total,z,19807.113000000001
+2022,Calendar year,National,K02000001,United Kingdom,Total,Total,Total,z,39388.031000000003
+2022,Calendar year,National,E92000001,England,Total,Total,Total,z,33166.417000000001
+2022,Calendar year,National,W92000004,Wales,Total,Total,Total,z,1806.556
+2022,Calendar year,National,N92000002,Northern Ireland,Total,Total,Total,z,1101.9549999999999
+2022,Calendar year,National,S92000003,Scotland,Total,Total,Total,z,3313

@@ -1,0 +1,66 @@
+time_period,time_identifier,geographic_level,country_code,country_name,provider_type,t_institutions
+202122,Academic year,National,E92000001,England,Higher education providers,258
+202122,Academic year,National,N92000002,Northern Ireland,Higher education providers,4
+202122,Academic year,National,S92000003,Scotland,Higher education providers,18
+202122,Academic year,National,W92000004,Wales,Higher education providers,8
+202122,Academic year,National,E92000001,England,Further education colleges,226
+202122,Academic year,National,S92000003,Scotland,Further education colleges,26
+202122,Academic year,National,W92000004,Wales,Further education colleges,13
+202122,Academic year,National,N92000002,Northern Ireland,Further education colleges,6
+202122,Academic year,National,K02000001,United Kingdom,Further education colleges,271
+202122,Academic year,National,K02000001,United Kingdom,Higher education providers,288
+201516,Academic year,National,E92000001,England,Further education colleges,335
+201516,Academic year,National,K02000001,United Kingdom,Further education colleges,381
+201516,Academic year,National,N92000002,Northern Ireland,Further education colleges,6
+201516,Academic year,National,S92000003,Scotland,Further education colleges,26
+201516,Academic year,National,W92000004,Wales,Further education colleges,14
+201617,Academic year,National,E92000001,England,Further education colleges,325
+201617,Academic year,National,E92000001,England,Higher education providers,227
+201617,Academic year,National,K02000001,United Kingdom,Further education colleges,371
+201617,Academic year,National,K02000001,United Kingdom,Higher education providers,258
+201617,Academic year,National,N92000002,Northern Ireland,Further education colleges,6
+201617,Academic year,National,N92000002,Northern Ireland,Higher education providers,4
+201617,Academic year,National,S92000003,Scotland,Further education colleges,26
+201617,Academic year,National,S92000003,Scotland,Higher education providers,19
+201617,Academic year,National,W92000004,Wales,Further education colleges,14
+201617,Academic year,National,W92000004,Wales,Higher education providers,8
+201718,Academic year,National,E92000001,England,Further education colleges,290
+201718,Academic year,National,E92000001,England,Higher education providers,230
+201718,Academic year,National,K02000001,United Kingdom,Further education colleges,335
+201718,Academic year,National,K02000001,United Kingdom,Higher education providers,261
+201718,Academic year,National,N92000002,Northern Ireland,Further education colleges,6
+201718,Academic year,National,N92000002,Northern Ireland,Higher education providers,4
+201718,Academic year,National,S92000003,Scotland,Further education colleges,26
+201718,Academic year,National,S92000003,Scotland,Higher education providers,19
+201718,Academic year,National,W92000004,Wales,Further education colleges,13
+201718,Academic year,National,W92000004,Wales,Higher education providers,8
+201819,Academic year,National,E92000001,England,Further education colleges,266
+201819,Academic year,National,E92000001,England,Higher education providers,231
+201819,Academic year,National,K02000001,United Kingdom,Further education colleges,311
+201819,Academic year,National,K02000001,United Kingdom,Higher education providers,262
+201819,Academic year,National,N92000002,Northern Ireland,Further education colleges,6
+201819,Academic year,National,N92000002,Northern Ireland,Higher education providers,4
+201819,Academic year,National,S92000003,Scotland,Further education colleges,26
+201819,Academic year,National,S92000003,Scotland,Higher education providers,19
+201819,Academic year,National,W92000004,Wales,Further education colleges,13
+201819,Academic year,National,W92000004,Wales,Higher education providers,8
+201920,Academic year,National,E92000001,England,Further education colleges,244
+201920,Academic year,National,E92000001,England,Higher education providers,247
+201920,Academic year,National,K02000001,United Kingdom,Further education colleges,289
+201920,Academic year,National,K02000001,United Kingdom,Higher education providers,277
+201920,Academic year,National,N92000002,Northern Ireland,Further education colleges,6
+201920,Academic year,National,N92000002,Northern Ireland,Higher education providers,4
+201920,Academic year,National,S92000003,Scotland,Further education colleges,26
+201920,Academic year,National,S92000003,Scotland,Higher education providers,18
+201920,Academic year,National,W92000004,Wales,Further education colleges,13
+201920,Academic year,National,W92000004,Wales,Higher education providers,8
+202021,Academic year,National,E92000001,England,Further education colleges,231
+202021,Academic year,National,E92000001,England,Higher education providers,265
+202021,Academic year,National,K02000001,United Kingdom,Further education colleges,276
+202021,Academic year,National,K02000001,United Kingdom,Higher education providers,295
+202021,Academic year,National,N92000002,Northern Ireland,Further education colleges,6
+202021,Academic year,National,N92000002,Northern Ireland,Higher education providers,4
+202021,Academic year,National,S92000003,Scotland,Further education colleges,26
+202021,Academic year,National,S92000003,Scotland,Higher education providers,18
+202021,Academic year,National,W92000004,Wales,Further education colleges,13
+202021,Academic year,National,W92000004,Wales,Higher education providers,8
